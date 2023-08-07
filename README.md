@@ -8,4 +8,4 @@ While this code was intially structured to work with Trackman files, changing th
 of software.
 
 For those using Trackman data- this code is designed to work with files implementing the "Tagged Pitch Type" option. If your Trackman
-CSV implements "Auto Pitch Type" simple replace any mention of "TaggedPitchType" with "AutoPitchType"
+CSV implements "Auto Pitch Type" simply replace any mention of "TaggedPitchType" with "AutoPitchType"
